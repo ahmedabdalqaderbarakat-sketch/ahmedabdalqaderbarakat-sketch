@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Ahmed Abd El Kader 👋
 
-<!--
-**ahmedabdalqaderbarakat-sketch/ahmedabdalqaderbarakat-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently studying Computer Science at **Akhbar El Yom Academy** (3rd Year).
+- 🧠 Deeply focused on Artificial Intelligence, Data Engineering, and Advanced Python Development.
+- 🛠️ Tech Stack: Python, C++, SQL, Git, Linux (Ubuntu), Pandas, NumPy, and Machine Learning libraries.
+- 📈 Exploring Automated Trading Scripts and Real-World Data Processing Systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats & Skills
+```text
+[ Languages ]: Python | C++ | SQL | Bash
+[ Tools ]: VS Code | Git | Jupyter Notebook | Anaconda | Linux
+[ Focus ]: Data Analysis, OOP, Data Structures, Algorithms & AI
